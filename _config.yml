@@ -1,8 +1,8 @@
 title: bi0s Pentest
 description: "bi0s Pentest - Elite Cybersecurity Team. India's leading cybersecurity research team from Amrita University."
 author: bi0s Pentest Team
-baseurl: ""
-url: ""
+baseurl: "/new-website-test"
+url: "https://pentest-bi0s.github.io"
 permalink: pretty
 
 exclude:

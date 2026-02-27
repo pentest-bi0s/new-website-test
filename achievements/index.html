@@ -115,7 +115,7 @@ document.querySelectorAll('.filter-btn').forEach(function(btn) {
 });
 
 /* Fetch data from data.json */
-fetch('/achievements/data.json')
+fetch(BASEURL + '/achievements/data.json')
   .then(function(r) { return r.json(); })
   .then(function(json) {
     ACH = json.sort(function(a, b) {

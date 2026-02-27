@@ -187,7 +187,7 @@ function initPage() {
 }
 
 /* Fetch data from data.json, fall back to empty state on error */
-fetch('/members/data.json')
+fetch(BASEURL + '/members/data.json')
   .then(function(r){ return r.json(); })
   .then(function(json){
     DATA = json;
