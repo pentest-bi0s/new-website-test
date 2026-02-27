@@ -79,10 +79,10 @@ function buildMediaArea(a) {
   var imgs = getImgs(a);
   if (!imgs.length) return '';
   if (imgs.length === 1) {
-    return '<img src="' + imgs[0] + '" alt="" class="ach-avatar" loading="lazy">';
+    return '<img src="' + BASEURL + imgs[0] + '" alt="" class="ach-avatar" loading="lazy">';
   }
   var strip = imgs.map(function(src) {
-    return '<img src="' + src + '" alt="" class="ach-thumb" loading="lazy">';
+    return '<img src="' + BASEURL + src + '" alt="" class="ach-thumb" loading="lazy">';
   }).join('');
   return '<div class="ach-thumb-strip">' + strip + '</div>';
 }
