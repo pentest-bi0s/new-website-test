@@ -1,0 +1,129 @@
+---
+layout: default
+title: "bi0s Pentest – Achievements"
+description: "Celebrating milestones and recognition from the global cybersecurity community."
+---
+
+<div class="page-wrap">
+
+  <!-- Header -->
+  <section class="section-pad">
+    <div class="container">
+      <div class="page-header">
+        <h1>Achievements</h1>
+        <div class="divider"></div>
+        <p class="lead">Celebrating milestones and recognition from the global cybersecurity community.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section class="section-pad-sm">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-value">$30K+</div>
+          <div class="stat-label">Prize Money Won</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">80+</div>
+          <div class="stat-label">Companies Hacked</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">10+</div>
+          <div class="stat-label">Talks Delivered</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-value">3+</div>
+          <div class="stat-label">Countries Visited</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Filter -->
+  <div class="container">
+    <div class="filter-bar">
+      <button class="filter-btn active" data-cat="all">All</button>
+      <button class="filter-btn" data-cat="scholarship">Scholarship</button>
+      <button class="filter-btn" data-cat="conference">Conference</button>
+      <button class="filter-btn" data-cat="talks">Talks</button>
+      <button class="filter-btn" data-cat="competition">Competition</button>
+      <button class="filter-btn" data-cat="recognition">Recognition</button>
+    </div>
+  </div>
+
+  <!-- Grid -->
+  <section class="section-pad-sm">
+    <div class="container">
+      <div class="ach-grid" id="ach-grid"></div>
+    </div>
+  </section>
+
+</div>
+
+<script>
+var ACH = [];
+var grid = document.getElementById('ach-grid');
+var active = 'all';
+
+function getImgs(a) {
+  if (a.images && a.images.length) return a.images;
+  if (a.image) return [a.image];
+  return [];
+}
+
+/* Builds the small media element shown at the card's top-right.
+   Single image → circular avatar; multiple images → compact thumbnail strip (max 4). */
+function buildMediaArea(a) {
+  var imgs = getImgs(a);
+  if (!imgs.length) return '';
+  if (imgs.length === 1) {
+    return '<img src="' + imgs[0] + '" alt="" class="ach-avatar" loading="lazy">';
+  }
+  var strip = imgs.map(function(src) {
+    return '<img src="' + src + '" alt="" class="ach-thumb" loading="lazy">';
+  }).join('');
+  return '<div class="ach-thumb-strip">' + strip + '</div>';
+}
+
+function render(cat) {
+  active = cat;
+  var list = cat === 'all' ? ACH : ACH.filter(function(a) {
+    return a.category.toLowerCase() === cat;
+  });
+  grid.innerHTML = list.map(function(a) {
+    return '<div class="ach-card">'
+      + '<div class="ach-card-top">'
+      + '<span class="ach-cat">' + a.category + '</span>'
+      + buildMediaArea(a)
+      + '</div>'
+      + '<div class="ach-body">'
+      + '<p class="ach-title">' + a.title + '</p>'
+      + '<p class="ach-desc">' + a.description + '</p>'
+      + '<p class="ach-date">' + a.date.substring(0, 7) + '</p>'
+      + '</div></div>';
+  }).join('');
+}
+
+document.querySelectorAll('.filter-btn').forEach(function(btn) {
+  btn.addEventListener('click', function() {
+    document.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+    btn.classList.add('active');
+    render(btn.dataset.cat);
+  });
+});
+
+/* Fetch data from data.json */
+fetch('/achievements/data.json')
+  .then(function(r) { return r.json(); })
+  .then(function(json) {
+    ACH = json.sort(function(a, b) {
+      return new Date(b.date) - new Date(a.date);
+    });
+    render(active);
+  })
+  .catch(function(err) {
+    console.error('Failed to load achievements data:', err);
+  });
+</script>

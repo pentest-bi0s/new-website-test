@@ -1,0 +1,14 @@
+title: bi0s Pentest
+description: "bi0s Pentest - Elite Cybersecurity Team. India's leading cybersecurity research team from Amrita University."
+author: bi0s Pentest Team
+baseurl: ""
+url: ""
+permalink: pretty
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - README.md

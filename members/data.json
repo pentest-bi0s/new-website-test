@@ -1,0 +1,280 @@
+{
+  "founder": {
+    "sudo_name": "Th3_M3nt0r",
+    "name": "VIPIN PAVITHRAN",
+    "role": "Founder & Chief Mentor",
+    "bio": "Vipin Pavithran is a cyber-security veteran and the founder of team bi0s, and takes deep passion in mentoring students at Amrita Vishwa Vidyapeetham. Prior to coming to Amritapuri, he has worked for over 10 years in the software industry in the USA & UK. Being passionate about helping students to develop their talent and to make them reach their potential, he founded the internationally recognised student clubs - amFOSS, Team bi0s and Team Shakti, and today mentors over 300 engineering students directly through these clubs. Team bi0s was amongst India's first CTF team when it was formed in 2007, and it was this team that founded the InCTF in 2010, which was the first-ever CTF contest to be organized in India.",
+    "category": "founder",
+    "linkedin": "https://www.linkedin.com/in/vipin-pavithran/",
+    "twitter": "https://twitter.com/th3_m3nt0r",
+    "email": "vipinp@am.amrita.edu"
+  },
+  "staff_mentors": [
+    {
+      "sudo_name": "Abhinand N",
+      "role": "Mobile Security Expert",
+      "linkedin": "https://www.linkedin.com/in/abhinand-n/"
+    },
+    {
+      "sudo_name": "Akilesh Kumar",
+      "role": "Red Teaming and Mobile Security",
+      "linkedin": "https://www.linkedin.com/in/aki007/"
+    }
+  ],
+  "alumni": {
+    "2025": [
+      {
+        "sudo_name": "xbr",
+        "name": "Abhiram N",
+        "role": "Android Security",
+        "twitter": "https://www.twitter.com/m4rt1aN_",
+        "linkedin": "https://www.linkedin.com/in/abhiram-n-508637287",
+        "email": "abhiram26333@gmail.com"
+      },
+      {
+        "sudo_name": "0kay4nu",
+        "name": "Anusree N",
+        "role": "Android Security",
+        "twitter": "https://www.twitter.com/0kay4nu",
+        "linkedin": "https://www.linkedin.com/in/anusree-n-4487a32b0",
+        "email": "anusreen72004@gmail.com"
+      },
+      {
+        "sudo_name": "Rav3nf0",
+        "name": "Aadarsh T Rajeev",
+        "role": "Network Security",
+        "twitter": "https://www.twitter.com/Rav3nf0",
+        "linkedin": "https://www.linkedin.com/in/aadarsh-t-r/",
+        "email": "aadarsht087@gmail.com"
+      }
+    ],
+    "2024": [
+      {
+        "sudo_name": "Ash",
+        "name": "Anjana Suresh",
+        "role": "Cloud Security",
+        "twitter": "https://www.twitter.com/anjanas_02",
+        "linkedin": "https://www.linkedin.com/in/anjana-suresh-821371211",
+        "email": "rs.anjanasuresh@gmail.com"
+      },
+      {
+        "sudo_name": "r0n1n",
+        "name": "R Srikesh",
+        "role": "Application Security",
+        "twitter": "https://www.twitter.com/r_srikesh",
+        "linkedin": "https://www.linkedin.com/in/srikesh-ravikumar",
+        "email": "srikeshravikumar@gmail.com"
+      },
+      {
+        "sudo_name": "st4gz0",
+        "name": "Jose Vithayathil",
+        "role": "Network Security",
+        "twitter": "https://www.twitter.com/jose_v8_",
+        "linkedin": "https://www.linkedin.com/in/josev8",
+        "email": "josevithayathil25@gmail.com"
+      }
+    ],
+    "2023": [
+      {
+        "sudo_name": "231tr0n",
+        "name": "Srikar R",
+        "role": "Application Security",
+        "twitter": "https://www.twitter.com/231tr0n",
+        "linkedin": "https://www.linkedin.com/in/231tr0n",
+        "email": "xzeltronx@gmail.com"
+      },
+      {
+        "sudo_name": "bugwatch",
+        "name": "Abhishek S",
+        "role": "Application Security",
+        "twitter": "https://www.twitter.com/abhiabhi2306",
+        "linkedin": "https://www.linkedin.com/in/abhisheksidharth",
+        "email": "abhiabhi2306@gmail.com"
+      },
+      {
+        "sudo_name": "v1dhun",
+        "name": "Vidhun K",
+        "role": "Application Security",
+        "twitter": "https://www.twitter.com/v1dhun",
+        "linkedin": "https://www.linkedin.com/in/vidhunind",
+        "email": "vidhunedl@gmail.com"
+      }
+    ],
+    "2021": [
+      {
+        "sudo_name": "Amrudesh",
+        "name": "Application Security CRED"
+      },
+      {
+        "sudo_name": "Varun Nair",
+        "role": "InfoSec Engineer PhonePe",
+        "linkedin": "https://www.linkedin.com/in/varun-nair-a573b3154/"
+      }
+    ]
+  },
+  "student_members": {
+    "fourth_years": [
+      {
+        "sudo_name": "Axsuixa",
+        "name": "Akshika Munshi",
+        "role": "Red Teaming",
+        "twitter": "https://www.twitter.com/AM9381847212895",
+        "linkedin": "https://www.linkedin.com/in/akshika-5095ab249",
+        "email": "akshikamunshi27@gmail.com"
+      },
+      {
+        "sudo_name": "Tr4c3",
+        "name": "Keerthi Prabu P",
+        "role": "Red Teaming",
+        "twitter": "https://www.twitter.com/KeerthiPrabuP1",
+        "linkedin": "https://www.linkedin.com/in/keerthi-prabu-p-5621b2240",
+        "email": "keerthiprabup@gmail.com"
+      }
+    ],
+    "third_years": [
+      {
+        "sudo_name": "570rmbr3ak3r",
+        "name": "Anirudh Ajithkumar",
+        "role": "Red Teaming",
+        "linkedin": "https://www.linkedin.com/in/anirudh-ajithkumar-651469285",
+        "email": "570rm1234@gmail.com"
+      },
+      {
+        "sudo_name": "d3vn37",
+        "name": "Devnath NS",
+        "role": "Red Teaming",
+        "twitter": "https://www.twitter.com/Devnath_NS",
+        "linkedin": "https://www.linkedin.com/in/devnath-n-s",
+        "email": "nsdevnath172@gmail.com"
+      },
+      {
+        "sudo_name": "lu77_u",
+        "name": "Sam MG Harish",
+        "role": "Android Security",
+        "twitter": "https://www.twitter.com/sam_mg_",
+        "linkedin": "https://www.linkedin.com/in/sam-mg-",
+        "email": "sammgharish@gmail.com"
+      },
+      {
+        "sudo_name": "s4bot3ur",
+        "name": "Dheekonda Komal Rao",
+        "role": "Blockchain Security",
+        "linkedin": "https://www.linkedin.com/in/dheekonda-komal-rao-6bb68727b",
+        "email": "s4bot3ur.x.t0r4n4d0@gmail.com"
+      },
+      {
+        "sudo_name": "Skywalker-341",
+        "name": "Aneesh M",
+        "role": "Red Teaming",
+        "linkedin": "https://www.linkedin.com/in/aneesh-m-039389297",
+        "twitter": "https://x.com/ANEESHM525269",
+        "email": "aneeshkarthikeyan2005@gmail.com"
+      },
+      {
+        "sudo_name": "t0k1t0",
+        "name": "Swathi B Raj",
+        "role": "Blockchain Security",
+        "linkedin": "https://www.linkedin.com/in/swathi-b-raj-449470288/",
+        "twitter": "https://x.com/t0k1t04123",
+        "email": "swathibraj123@gmail.com"
+      }
+    ],
+    "second_years": [
+      {
+        "sudo_name": "v1ru5.4pk",
+        "name": "B Mithilesh",
+        "role": "Android Security",
+        "twitter": "https://x.com/Mithile98031958",
+        "linkedin": "https://www.linkedin.com/in/mithilesh-bandaru-2b3845377/",
+        "email": "mithileshbandaru@gmail.com"
+      },
+      {
+        "sudo_name": "yasasri16",
+        "name": "Yasasri V",
+        "role": "Android Security",
+        "linkedin": "https://www.linkedin.com/in/yasasri-valluri-208ab1334/",
+        "email": "yasasrivalluri@gmail.com"
+      },
+      {
+        "sudo_name": "R3B3L",
+        "name": "Anup N",
+        "role": "Red Teaming",
+        "twitter": "https://twitter.com/AnupNarayanam",
+        "linkedin": "www.linkedin.com/in/anup-narayanam",
+        "email": "anupnarayanam@gmail.com"
+      },
+      {
+        "sudo_name": "rishita",
+        "name": "Rishita",
+        "role": "Red Teaming",
+        "linkedin": "https://www.linkedin.com/in/rishitha-p-763b9332b/",
+        "email": "nwonknuhlla@gmail.com"
+      },
+      {
+        "sudo_name": "$h4d0whym",
+        "name": "Sumanthi",
+        "role": "Red Teaming",
+        "linkedin": "https://www.linkedin.com/in/nethula-sumanthi-117740334/",
+        "email": "sumanthinethula@gmail.com"
+      },
+      {
+        "sudo_name": "sn8ha",
+        "name": "Sneha",
+        "role": "Blockchain Security",
+        "linkedin": "https://www.linkedin.com/in/sn8ha/",
+        "email": "sneha6sky@gmail.com"
+      }
+    ],
+    "first_years": [
+      {
+        "sudo_name": "b3ytii",
+        "name": "Narain Krishna",
+        "role": "Android Security",
+        "linkedin": "https://www.linkedin.com/in/narain-krishna-07128a374",
+        "email": "narainkrishna47@gmail.com"
+      },
+      {
+        "sudo_name": "dawnstarb1sh",
+        "name": "Nandith T Anil",
+        "role": "Red Teaming",
+        "linkedin": "https://www.linkedin.com/in/nandith-anil-1193b0317/",
+        "email": "nandithtanil@gmail.com"
+      },
+      {
+        "sudo_name": "krxlol",
+        "name": "Abhiram Krishna",
+        "role": "Red Teaming",
+        "linkedin": "https://www.linkedin.com/in/abhiram-k-marar-142855369/",
+        "email": "abhiramkmarar@gmail.com"
+      },
+      {
+        "sudo_name": "YxD4RK",
+        "name": "Yashash Reddy",
+        "role": "Red Teaming",
+        "linkedin": "https://www.linkedin.com/in/yashash-reddy-161957374/",
+        "email": "rachamalluyash@gmail.com"
+      },
+      {
+        "sudo_name": "orangeju1ce",
+        "name": "R H Sarayu",
+        "role": "Blockchain Security",
+        "linkedin": "https://www.linkedin.com/in/sarayu-r-1739243ab/",
+        "email": "sarayur2105@gmail.com"
+      },
+      {
+        "sudo_name": "AntX04",
+        "name": "B Ananth Leela Reddy",
+        "role": "Red Teaming",
+        "linkedin": "https://www.linkedin.com/in/ananthreddy-reddy-214b55387/",
+        "email": "ananthreddy5481@gmail.com"
+      },
+      {
+        "sudo_name": "Cr@sh_R00t",
+        "name": "D V Rama Krishna",
+        "role": "Android Security",
+        "linkedin": "https://www.linkedin.com/in/rama-krishna-dulam-302637378/",
+        "email": "ramakrishnadulam10@gmail.com"
+      }
+    ]
+  }
+}

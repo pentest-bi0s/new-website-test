@@ -1,0 +1,200 @@
+[
+  {
+    "title": "BSides Kochi Volunteering",
+    "description": "Team members actively volunteered in BSides Kochi in February 2025, sharing knowledge and contributing to the cybersecurity community.",
+    "date": "2025-02-15",
+    "category": "Conference",
+    "image": "/assets/images/bsides-volunteering.png"
+  },
+  {
+    "title": "SINCON Scholarship",
+    "description": "Akshika received the prestigious SINCON scholarship in 2025 for exceptional cybersecurity contributions.",
+    "date": "2025-01-15",
+    "category": "Scholarship",
+    "image": "/assets/images/Akshika.png"
+  },
+  {
+    "title": "Nullcon Participation",
+    "description": "The team actively participated in Nullcon in March 2025, one of Asia's largest security conferences, sharing knowledge and networking with global experts.",
+    "date": "2025-03-20",
+    "category": "Conference",
+    "image": "/assets/images/team-nullcon.png"
+  },
+  {
+    "title": "DEFCON 30 Participation",
+    "description": "Anjana represented team bi0s at DEFCON 30 in 2022, one of the world's most prestigious hacking conferences, showcasing our team's global recognition.",
+    "date": "2022-08-12",
+    "category": "Conference",
+    "image": "/assets/images/Anjana.jpg"
+  },
+  {
+    "title": "GCC Representation",
+    "description": "Aadarsh T Rajeev represented India at GCC 2024, Thailand.",
+    "date": "2024-04-18",
+    "category": "Conference",
+    "image": "/assets/images/aadarsh.png"
+  },
+  {
+    "title": "Professional Certifications",
+    "description": "Aadarsh T Rajeev received the Certified Red Team Professional (CRTP) and AppSec Practitioner certifications, demonstrating advanced skills in red teaming and application security.",
+    "date": "2025-06-01",
+    "category": "Certification",
+    "image": "/assets/images/aadarsh.png"
+  },
+  {
+    "title": "Bug Bounty Success",
+    "description": "Anirudh and Devnath received bug bounties in 2025, demonstrating their expertise in vulnerability research and responsible disclosure.",
+    "date": "2025-01-01",
+    "category": "Recognition",
+    "images": [
+      "/assets/images/anirudh.jpg",
+      "/assets/images/devnath.jpg"
+    ]
+  },
+  {
+    "title": "Multiple Hall of Fame Mentions",
+    "description": "Team members featured in multiple Hall of Fames, with several receiving CVEs and publishing research that contributed to the cybersecurity community.",
+    "date": "2024-01-10",
+    "category": "Recognition",
+    "image": "/assets/images/achievement-hof.jpg"
+  },
+  {
+    "title": "TROOPERS '19 Scholarship",
+    "description": "Fully funded student scholarship awarded to attend TROOPERS '19 in Heidelberg, Germany.",
+    "date": "2019-03-15",
+    "category": "Scholarship",
+    "image": "/assets/images/achievement-troopers.jpg"
+  },
+  {
+    "title": "Udacity Bertelsmann Scholarship",
+    "description": "Aadarsh T Rajeev completed a nano degree in Cyber Security track, selected among the top 500 students worldwide.",
+    "date": "2023-07-22",
+    "category": "Scholarship",
+    "image": "/assets/images/aadarsh.png"
+  },
+  {
+    "title": "GCC Representation",
+    "description": "Abhiram N represented India at GCC 2025, Taiwan.",
+    "date": "2025-04-18",
+    "category": "Conference",
+    "image": "/assets/images/Abhiram.jpg"
+  },
+  {
+    "title": "Mobile Security Research",
+    "description": "Buchupalle Ravindranath Reddy received bug bounties in 2024, demonstrating expertise in mobile vulnerability research and responsible disclosure.",
+    "date": "2024-11-30",
+    "category": "Recognition",
+    "image": "/assets/images/ravindra.jpeg"
+  },
+  {
+    "title": "Talk at bi0s Meetup Bangalore",
+    "description": "Aadarsh T Rajeev delivered an insightful talk at the bi0s Meetup in Bangalore, sharing expertise with the cybersecurity community.",
+    "date": "2025-08-30",
+    "category": "Talks",
+    "image": "/assets/images/aadarsh.png"
+  },
+  {
+    "title": "Talk at bi0s Meetup Kochi",
+    "description": "Sam MG Harish and Abhiram N delivered an engaging talk at the bi0s Meetup in Kochi, contributing to knowledge sharing in the community.",
+    "date": "2025-09-21",
+    "category": "Talks",
+    "images": [
+      "/assets/images/Sam.png",
+      "/assets/images/Abhiram.jpg"
+    ]
+  },
+  {
+    "title": "H7CTF Finals - First Place",
+    "description": "Aaron Mathews, Mamatha Sivakumar, Sam MG Harish, and Sneha V Ajesh won first place at the H7CTF Finals at SRM Kattankulathur, Chennai.",
+    "date": "2025-11-09",
+    "category": "Competition",
+    "image": "/assets/images/H7 Finals Team.jpeg"
+  },
+  {
+    "title": "CTF Core Team at BSides Dehradun",
+    "description": "Sam MG Harish and Komal Rao will serve as part of the CTF core team at BSides Dehradun, designing and managing capture-the-flag challenges.",
+    "date": "2026-01-10",
+    "category": "Conference",
+    "images": [
+      "/assets/images/Sam.png",
+      "/assets/images/komal.jpeg"
+    ]
+  },
+  {
+    "title": "Albridge Contest - 3rd Place",
+    "description": "Komal Rao secured 3rd place in the Albridge Contest in Sherlock, demonstrating exceptional expertise in blockchain security and smart contract analysis.",
+    "date": "2025-08-18",
+    "category": "Competition",
+    "image": "/assets/images/komal.jpeg"
+  },
+  {
+    "title": "Genspark AI Showdown Success",
+    "description": "Anup N, Mithilesh, Sumanthi, and Yasasri received bug bounties worth $1,500 in total at the Genspark AI Showdown Program, showcasing their AI security expertise.",
+    "date": "2025-08-21",
+    "category": "Recognition",
+    "images": [
+      "/assets/images/anup.jpeg",
+      "/assets/images/mithilesh.jpeg",
+      "/assets/images/sumanthi.png",
+      "/assets/images/yasasri.png"
+    ]
+  },
+  {
+    "title": "AI Model Vulnerability Research",
+    "description": "Aneesh M and Anirudh received bug bounties totaling $2,500 for discovering critical vulnerabilities in ChatGPT and other AI models, advancing AI security research.",
+    "date": "2025-08-10",
+    "category": "Recognition",
+    "images": [
+      "/assets/images/aneesh.jpeg",
+      "/assets/images/anirudh.jpg"
+    ]
+  },
+  {
+    "title": "CIIS Hackathon 2025 Recognition",
+    "description": "Sam MG Harish, Ravindra Reddy, Sivadev, Mithilesh, and Yasasri were selected among the top 35 teams at the national-level CIIS (Cybercrime Investigation and Intelligence Summit) Hackathon 2025.",
+    "date": "2025-09-11",
+    "category": "Competition",
+    "images": [
+      "/assets/images/siva.png",
+      "/assets/images/ravindra.jpeg",
+      "/assets/images/yasasri.png",
+      "/assets/images/Sam.png",
+      "/assets/images/mithilesh.jpeg"
+    ]
+  },
+  {
+    "title": "Third Place at Mobile Only CTF",
+    "description": "The team participated in the Mobile Only CTF during DEFCON 25 and secured 3rd place, demonstrating exceptional mobile security skills.",
+    "date": "2025-08-11",
+    "category": "Competition",
+    "image": "/assets/images/team.jpeg"
+  },
+  {
+    "title": "First Place at Mobile Hacking Lab x IT Harmony CTF 2025",
+    "description": "Sam MG Harish won first place at the Mobile Hacking Lab x IT Harmony CTF 2025, securing the Android Userland + Kernel Fuzzing and Exploitation Bundle course by Mobile Hacking Lab (worth €5,000).",
+    "date": "2025-12-06",
+    "category": "Competition",
+    "image": "/assets/images/Sam.png"
+  },
+  {
+    "title": "Seasides Conference",
+    "description": "Abhiram N, Komal Rao, and Sam MG Harish attended Seasides, India's most loved cybersecurity conference.",
+    "date": "2025-02-22",
+    "category": "Conference",
+    "image": "/assets/images/Seasides.jpeg"
+  },
+  {
+    "title": "GCC Representation",
+    "description": "Komal Rao represented India at GCC 2026, Vietnam.",
+    "date": "2026-03-02",
+    "category": "Conference",
+    "image": "/assets/images/komal.jpeg"
+  },
+  {
+    "title": "Bug Bounty Success",
+    "description": "Abhiram received bug bounty in December 2025, demonstrating their expertise in vulnerability research and responsible disclosure.",
+    "date": "2025-12-01",
+    "category": "Recognition",
+    "image": "/assets/images/Abhiram.jpg"
+  }
+]
